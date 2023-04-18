@@ -1,0 +1,25 @@
+<html>
+<title> invitation for housewarming party</title>
+<h1> ISHIKA JAISWAL</h1>
+<h1> CS22060 </h1>
+<body background="C:\Users\LENOVO SSD\Desktop\download.jfif" width="2500"height="2500">
+<dt><h1 align = "center"> <b>NEW HOME 
+                                   SWEET HOME </b> </h1> </dt>
+  
+
+<h2 align ="center"> <p>please join us for the housewarming party to celebrate our new home</p> </h2>
+
+
+<h1   align ="center"> <p>  * we welcome you on 2nd MAY 2023* </p> </h1>
+<h1   align ="center"> <p> *5PM onwards..*</p> </h1>
+
+
+
+<h1  align ="center"> <p> at 14, BURDI ROAD NAGPUR </p> </h1>
+
+
+
+
+<h3 align ="right bottom"> REGARDS:MR AND MRS JOSHI.... </h1>
+</body>
+</html>
